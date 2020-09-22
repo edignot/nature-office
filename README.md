@@ -1,18 +1,18 @@
-# Stretch: Nature Office
+# Nature Office
 
-**Site Deployed on Heroku:**
+**Deployed**
 [Nature Office](https://nature-office.herokuapp.com/)
 
-## Abstract
+![nature office mockup](/natureofficemockup.jpg)
 
-**Technologies Used:**
+## About:
+
+**Technologies Used**
 *React*, *React Router*, *ES6*, *TDD*, *SCSS*, *MobX*, *Fetch API for receiving 3rd party data*
 
 Nature Office is an appication we built during our time at [Turing School of Software and Design](http://turing.io). The goal for this project, over the course of nine days, was to incorporate a new technology into our application that wasn’t explicitly taught. We chose to learn global state management using MobX. 
 
-![nature office mockup](/natureofficemockup.jpg)
-
-**Challenges:**
+**Challenges**
 Finding documentation and resources on MobX that were consistent was challenging. Given the short turn around time, we had less opportunity to dive deep into the "why" and "how" thing's were and were not working with our MobX implementaion. We ran into issues with using MobX's "inject" in conjunction with React Router. This caused our MobX functionality to not work quite in the way we wanted. Future iterations would address this issue. Another challenge we faced was working with the Google API. It was more complex than APIs we've used on previous projects, although in the end was a success! 
 
 ## Setup
@@ -25,8 +25,8 @@ Finding documentation and resources on MobX that were consistent was challenging
 ## Animation 
 ![1](/gif.gif)
 
-## User Stories :
-### User should be able to:
+## User Stories 
+### User should be able to
 
 ### Login with username, email and enter zipcode.
 <img width="1439" alt="1" src="https://user-images.githubusercontent.com/57964291/83582274-57359800-a4fe-11ea-9c25-4d7dbc6e55fc.png">
@@ -60,7 +60,7 @@ Finding documentation and resources on MobX that were consistent was challenging
 ### Navigate to user page and see all favorite spots, logout button, personal info.
 <img width="1435" alt="11" src="https://user-images.githubusercontent.com/57964291/83582310-687ea480-a4fe-11ea-97a4-c32fd2ced8fd.png">
 
-## Contributors:
+## Contributors
 [Madison Randle GitHub](https://github.com/madisonrandle)
 [Edita Ignot GitHub](https://github.com/edignot)
 [Nick Taylor GitHub](https://github.com/nickstaylor)
