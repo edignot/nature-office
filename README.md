@@ -1,6 +1,6 @@
 # Nature Office
 
-**[Nature Office](https://nature-office.herokuapp.com/)
+## https://nature-office.herokuapp.com/
 
 ![nature office mockup](/natureofficemockup.jpg)
 
