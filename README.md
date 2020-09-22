@@ -4,9 +4,9 @@
 
 ![nature office mockup](/natureofficemockup.jpg)
 
-## About:
+## About
 
-**Technologies Used**
+**Built with**
 *React*, *React Router*, *ES6*, *TDD*, *SCSS*, *MobX*, *Fetch API for receiving 3rd party data*
 
 Nature Office is an appication we built during our time at [Turing School of Software and Design](http://turing.io). The goal for this project, over the course of nine days, was to incorporate a new technology into our application that wasn’t explicitly taught. We chose to learn global state management using MobX. 
