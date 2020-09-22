@@ -60,7 +60,7 @@ Finding documentation and resources on MobX that were consistent was challenging
 <img width="1435" alt="11" src="https://user-images.githubusercontent.com/57964291/83582310-687ea480-a4fe-11ea-97a4-c32fd2ced8fd.png">
 
 ## Contributors
-- [Madison Randle GitHub](https://github.com/madisonrandle)
-- [Edita Ignot GitHub](https://github.com/edignot)
-- [Nick Taylor GitHub](https://github.com/nickstaylor)
-- [Taras Tarlov GitHub](https://github.com/ttarlov)
+- [Madison Randle](https://github.com/madisonrandle)
+- [Edita Ignot](https://github.com/edignot)
+- [Nick Taylor](https://github.com/nickstaylor)
+- [Taras Tarlov](https://github.com/ttarlov)
